@@ -10,6 +10,10 @@ public class CourseDetails {
 		System.out.println("EmpName=Bala");
 
 	}
+	private void gitCourse() {
+		System.out.println("git coursre");
+
+	}
 	public static void main(String[] args) {
 		CourseDetails c = new CourseDetails();
 		c.empId();
